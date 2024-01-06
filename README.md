@@ -1,1 +1,1 @@
-# ERC20_Generate
+# ERC20_Generate Adress:PrivateKey
